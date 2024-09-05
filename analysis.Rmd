@@ -23,6 +23,8 @@ dim(cars)
 
 ## Including Plots
 
+We'll make some nice plots!
+
 You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
